@@ -382,6 +382,7 @@ export default function TopGitHubUsers({ city, isAuthenticated }) {
                               {/*User Languages */}
                               <div className="flex-grow">
                                 <UserLanguages username={user.login} token={import.meta.env.VITE_GITHUB_TOKEN} />
+                                console.log(meta.env.VITE_GITHUB_TOKEN)
                               </div>
                             </div>
                           </div>

@@ -1,6 +1,5 @@
 ![image](https://github.com/developerrahulofficial/locationGit/assets/83329806/1baac3e6-a638-473f-8714-d131a005d384)
 
-
 <h1 align="center">
   LocationGit - v2
 </h1>
@@ -10,7 +9,6 @@
 <p align="center">
  
 ![](https://raw.githubusercontent.com/sheeehy/Geo-Git-v2/main/src/assets/GeogitHero.JPG)
-
 
 <br>
 
@@ -24,9 +22,6 @@ The app displays profile details of each ranked user, such as their profile pict
 
 <br>
 
-
-
-
 <p align="left">
  
  ## 🔧 📚 Tools & Libraries
@@ -38,54 +33,59 @@ The app displays profile details of each ranked user, such as their profile pict
 <br>
 
 ## 📦 Packages
-   <b>Cobe</b> - Globe elements.<br>
-  <b> DotENV</b> - For managing enviornment variables.<br>
-   <b>React Icons </b> - For icons.<br>
-   <b>React Router Dom </b> - For routing SPAs.<br>
-    <b>React Select</b> - For autosuggest user input.
-        <b>AuthO</b> - For user authentication.
 
-
-
+<b>Cobe</b> - Globe elements.<br>
+<b> DotENV</b> - For managing enviornment variables.<br>
+<b>React Icons </b> - For icons.<br>
+<b>React Router Dom </b> - For routing SPAs.<br>
+<b>React Select</b> - For autosuggest user input.
+<b>AuthO</b> - For user authentication.
 
 </p>
 <br>
 
-
 ## 🛠 Setup and Installation
+
 Make sure you have Node.js and npm installed.
 
 ## Clone the repository
+
 ```
 git clone https://github.com/developerrahulofficial/locationGit.git
 ```
+
 ## Navigate to the project directory
+
 ```
 cd locationGit
 ```
+
 ## Setup Your Enviroment Variables by creating .env file in your project and the following line
+
 ```
 VITE_GITHUB_TOKEN = " Your Github Token Here"
 
 ```
+
 ## Install dependencies
+
 ```
 npm install
 ```
+
 ## Run the app in development mode
+
 ```
 npm run dev
 ```
-
 
 <br>
 
 ## 🎨 Color Reference
 
-| Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
-| Dark Gray      | ![#070707](https://via.placeholder.com/10/0a192f?text=+) `#070707` |
-| Lighter Gray   | ![#A1CEFA](https://via.placeholder.com/10/0a192f?text=+) `#A1CEFA` |
-| Darker Blue    | ![#3B82F6](https://via.placeholder.com/10/303C55?text=+) `#3B82F6` |
-| Normal Blue    | ![#60A5FA](https://via.placeholder.com/10/8892b0?text=+) `#60A5FA` |
-
+| Color        | Hex                                                                |
+| ------------ | ------------------------------------------------------------------ |
+| Dark Gray    | ![#070707](https://via.placeholder.com/10/0a192f?text=+) `#070707` |
+| Lighter Gray | ![#A1CEFA](https://via.placeholder.com/10/0a192f?text=+) `#A1CEFA` |
+| Darker Blue  | ![#3B82F6](https://via.placeholder.com/10/303C55?text=+) `#3B82F6` |
+| Normal Blue  | ![#60A5FA](https://via.placeholder.com/10/8892b0?text=+) `#60A5FA` |
